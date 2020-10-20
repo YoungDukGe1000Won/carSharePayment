@@ -70,4 +70,4 @@ spring:
 
 api:
   delivery:
-    url: http://delivery:8080
+    url: http://carsharedelivery:8080
